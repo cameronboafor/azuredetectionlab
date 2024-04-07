@@ -1,7 +1,5 @@
 # Azure Detection Lab
 <h2>Description</h2>
-- <b>Configured the detection lab
-<br />
 - <b>Configure and Deploy Azure Resources such as Log Analytics Workspace, Virtual Machines, and Azure Sentinel
 <br />
 - <b>Implement Network and Virtual Machine Security Best Practices
